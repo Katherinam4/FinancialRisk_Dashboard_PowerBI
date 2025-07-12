@@ -1,6 +1,3 @@
-Of course! Based on your new dashboard design and the provided example, here is a new README file tailored for your **Financial Risk Dashboard**.
-
----
 
 # Financial Risk Analytics Dashboard
 
