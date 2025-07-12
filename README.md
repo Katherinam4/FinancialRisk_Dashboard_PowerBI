@@ -141,7 +141,7 @@ This Financial Risk Dashboard offers a comprehensive analytical view of a loan a
 
 ## 📁 Project Structure
 
-#### Financial_Risk_Dashboard_PowerBI/
+#### FinancialRisk_Dashboard_PowerBI/
 
 ## |--- README.md # Project documentation
 
