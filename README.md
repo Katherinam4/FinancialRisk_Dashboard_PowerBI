@@ -143,12 +143,17 @@ This Financial Risk Dashboard offers a comprehensive analytical view of a loan a
 
 #### Financial_Risk_Dashboard_PowerBI/
 
-|--- README.md # Project documentation
-|--- Financial_Risk_Dashboard.pbix # Main Power BI dashboard file
-|--- Screenshot/ # Dashboard visual
-|   └── financial risk dashboard.png # Dashboard preview image
-|--- Data/ # Data sources folder
-    |--- loan_applications.csv # Primary data source
+## |--- README.md # Project documentation
+
+## |--- Financial_Risk_Dashboard.pbix # Main Power BI dashboard file
+
+## |--- Screenshot/ # Dashboard visual
+
+## |   └── financial risk dashboard.png # Dashboard preview image
+
+## |--- Data/ # Data sources folder
+
+##    |--- loan_applications.csv # Primary data source
     
 ---
 
